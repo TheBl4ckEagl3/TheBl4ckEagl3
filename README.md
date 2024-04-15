@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheBl4ckEagl3
+- 👋 Hi, my name is Miguel Carvalho
 - 👀 I’m interested in AI, DataSci end GameDev
 - 🌱 I’m currently learning Python, C and GDScript
 - 📫 How to reach me: miguelcamocho@gmail.com
